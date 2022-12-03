@@ -5,6 +5,9 @@ class A{
 	
 	public void msg() {
 		System.out.println("I am from Claass A");
+		System.out.println("I am from Claass A");
+		System.out.println("I am from Claass A");
+		System.out.println("I am from Claass A");
 	}
 }
 
